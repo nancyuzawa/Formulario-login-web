@@ -1,0 +1,24 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #4273ed;
+  }
+
+  .formulario {
+    width: 400px;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  h2{
+    text-align: center;
+  }
