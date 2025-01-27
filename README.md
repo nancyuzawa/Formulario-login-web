@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	Projeto de front-end da faculdade, focado em criar uma página web simulando um login utilizando HTML, CSS e JavaScript, além do uso de Bootstrap.
+	Projeto de front-end da faculdade, focado em criar uma página web simulando um login.
 </p>
 <p align="center">
   <h4 align="center"> 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">  
-	<a href="#sobre">Sobre</a> • <a href="#demo">Demonstração da aplicação</a> 
+	<a href="#sobre">Sobre</a> • <a href="#demo">Demonstração da aplicação</a> • <a href="#tecnologia">Tecnologia</a> 
 </p>
 
 <h2 id="sobre">
@@ -27,7 +27,18 @@
 </h2>
 <p>
 	Projeto desenvolvido durante o 3º semestre da faculdade com desenvolvimento web, voltado para fins de aprendizado com o uso de tecnologias, incluindo HTML, CSS e JavaScript.
+	 utilizando HTML, CSS e JavaScript, além do uso de Bootstrap.
 </p>
+<h2 id="tecnologia">
+	Tecnologias
+</h2>
+<ul>
+	<li>Html</li>
+	<li>Css</li>
+	<li>JavaScript</li>
+	<li>bootstrap</li>
+</ul>
+
 
 <h2 id="demo">
 	Demonstração da aplicação
