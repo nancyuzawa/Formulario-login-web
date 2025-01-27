@@ -29,7 +29,7 @@
 	Projeto desenvolvido durante o 3º semestre da faculdade com desenvolvimento web, voltado para fins de aprendizado com o uso de tecnologias, incluindo HTML, CSS e JavaScript.
 </p>
 <p>
-	O sistema possui validador de email além do verificar se a senha é forte, ou seja, possuindo dpigitos, caracteres especiais, letra maiúscula e quantidade de pelo menos 8 caracteres.
+	O sistema é um formulário de login que possui validador de email além do verificar se a senha é forte, ou seja, se a senha contem dígitos, caracteres especiais, letra maiúscula e quantidade de pelo menos 8 caracteres.
 </p>
 <h2 id="tecnologia">
 	Tecnologias
